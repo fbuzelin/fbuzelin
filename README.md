@@ -6,7 +6,7 @@
 
 ![alt text](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t2-tomate/blob/main/docs/img/Tomate%20-%20Pomodoro.png)
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/fbuzelin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fbuzelin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </div>
